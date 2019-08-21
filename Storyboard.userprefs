@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\menu\namemanager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\menu\namemanager.cs" Line="14" Column="5" />
+      <File FileName="Assets\Scripts\Storyboard\GameOverMessage.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Storyboard\SwitchScene.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menu\setgameovertext.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\menu\setLabel.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
